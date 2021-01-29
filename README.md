@@ -19,7 +19,7 @@ Criar dois formulários (um de login, e outro de registro) onde a transição se
  
 #### Desafios Extras
  
-- Realizar a verificação de entrada dos dados (tamanho mínimo, existência de conteúdo nos campos.
+- Realizar a verificação de entrada dos dados (tamanho mínimo, existência de conteúdo nos campos.)
 - Criar toda a dinâmica utilizando apenas o [DOM](https://developer.mozilla.org/pt-BR/docs/DOM/Referencia_do_DOM), tendo no index.html apenas uma única div estando no body, e inserir os conteúdos por meio desta div.
 - Criar um dashboard.
  
